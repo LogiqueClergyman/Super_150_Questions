@@ -2,7 +2,7 @@ package A1;
 import java.util.*;
 public class All_Indices_Problem {
     public static void main(String[]args) {
-        // Your Code Here
+
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         int[]arr = new int[size];
