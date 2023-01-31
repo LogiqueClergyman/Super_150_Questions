@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cfde7f-955d-4324-94ec-b38a76c38ba6" name="Changes" comment="Second2">
-      <change afterPath="$PROJECT_DIR$/src/A1/BoardPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Replace_Hi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/TowerOfHanoi.java" afterDir="false" />
+    <list default="true" id="49cfde7f-955d-4324-94ec-b38a76c38ba6" name="Changes" comment="Third">
+      <change afterPath="$PROJECT_DIR$/src/A1/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/CountRemoveReplace2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Lexicographically.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Mapped_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Recursion_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Recusrsion_Twins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Split_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Subset_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Vivek_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A1/All_Indices_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1/All_Indices_Problem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Replace_Hi2">
+  <component name="RunManager" selected="Application.ChessBoard">
+    <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1.ChessBoard" />
+      <module name="Super 150 Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Replace_Hi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A1.Replace_Hi2" />
       <module name="Super 150 Questions" />
@@ -72,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChessBoard" />
         <item itemvalue="Application.Replace_Hi2" />
         <item itemvalue="Application.Replace_all_pi" />
       </list>
@@ -107,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674406928320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Third">
+      <created>1675087938016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675087938016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,7 +151,8 @@
     <MESSAGE value="First" />
     <MESSAGE value="Second" />
     <MESSAGE value="Second2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second2" />
+    <MESSAGE value="Third" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,6 +166,10 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
