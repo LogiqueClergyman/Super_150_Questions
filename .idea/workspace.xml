@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49cfde7f-955d-4324-94ec-b38a76c38ba6" name="Changes" comment="Third">
-      <change afterPath="$PROJECT_DIR$/src/A1/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/CountRemoveReplace2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Lexicographically.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Mapped_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Recursion_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Recusrsion_Twins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Split_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Subset_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1/Vivek_Array.java" afterDir="false" />
+    <list default="true" id="49cfde7f-955d-4324-94ec-b38a76c38ba6" name="Changes" comment="Last">
+      <change afterPath="$PROJECT_DIR$/src/A1/N_Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/N_Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/RatChases_Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Rat_Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/RecursionObedient_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A1/Sudoku_Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Feb1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Feb8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Feb8_NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Jan11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Jan12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150Class/Jan18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150_videos/BackTrack_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super150_videos/Backtrack2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +53,33 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChessBoard">
+  <component name="RunManager" selected="Application.Feb8">
+    <configuration name="BackTrack_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super150_videos.BackTrack_4" />
+      <module name="Super 150 Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Super150_videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Backtrack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super150_videos.Backtrack2" />
+      <module name="Super 150 Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Super150_videos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A1.ChessBoard" />
       <module name="Super 150 Questions" />
@@ -62,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_Hi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A1.Replace_Hi2" />
+    <configuration name="Feb1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super150Class.Feb1" />
       <module name="Super 150 Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A1.*" />
+          <option name="PATTERN" value="Super150Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_all_pi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A1.Replace_all_pi" />
+    <configuration name="Feb8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super150Class.Feb8" />
       <module name="Super 150 Questions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A1.*" />
+          <option name="PATTERN" value="Super150Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,9 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Feb8" />
+        <item itemvalue="Application.BackTrack_4" />
+        <item itemvalue="Application.Backtrack2" />
+        <item itemvalue="Application.Feb1" />
         <item itemvalue="Application.ChessBoard" />
-        <item itemvalue="Application.Replace_Hi2" />
-        <item itemvalue="Application.Replace_all_pi" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675087938016</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Last">
+      <created>1675172533984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675172533984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,7 +192,8 @@
     <MESSAGE value="Second" />
     <MESSAGE value="Second2" />
     <MESSAGE value="Third" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third" />
+    <MESSAGE value="Last" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
